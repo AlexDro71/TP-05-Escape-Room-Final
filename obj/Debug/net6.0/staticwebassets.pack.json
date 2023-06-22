@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPBase.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TPBase.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\Alcatraz.PNG",
+      "PackagePath": "staticwebassets\\img\\Alcatraz.PNG"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\celda.jpg",
+      "PackagePath": "staticwebassets\\img\\celda.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\cesar.png",
+      "PackagePath": "staticwebassets\\img\\cesar.png"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\codigoMorse.png",
+      "PackagePath": "staticwebassets\\img\\codigoMorse.png"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\creditos.jpg",
+      "PackagePath": "staticwebassets\\img\\creditos.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\crucigrama.png",
+      "PackagePath": "staticwebassets\\img\\crucigrama.png"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\fechaCrimen.jpg",
+      "PackagePath": "staticwebassets\\img\\fechaCrimen.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\fondoEscapaste.jpg",
+      "PackagePath": "staticwebassets\\img\\fondoEscapaste.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\fotoPrisionero.jpg",
+      "PackagePath": "staticwebassets\\img\\fotoPrisionero.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\jurado.jpg",
+      "PackagePath": "staticwebassets\\img\\jurado.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\muelle.jpg",
+      "PackagePath": "staticwebassets\\img\\muelle.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\oficina.jpg",
+      "PackagePath": "staticwebassets\\img\\oficina.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\puerta.jpg",
+      "PackagePath": "staticwebassets\\img\\puerta.jpg"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\img\\regalo.png",
+      "PackagePath": "staticwebassets\\img\\regalo.png"
+    },
+    {
+      "Id": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TPBase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TPBase.props",
+      "PackagePath": "build\\TPBase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TPBase.props",
+      "PackagePath": "buildMultiTargeting\\TPBase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TPBase.props",
+      "PackagePath": "buildTransitive\\TPBase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

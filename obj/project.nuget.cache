@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAA7o4OW/zkMvXwc1lvMvthQokFmlTlBC95iGYGGU4H+RmOQOcHYuanU5e0UazEZuG5fW4A6/s7R66QJ4ovtvA==",
+  "success": true,
+  "projectFilePath": "D:\\DESCARGAS\\TP-05 Alcatraz\\TP-05---Sala-de-Escape-master\\TPBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

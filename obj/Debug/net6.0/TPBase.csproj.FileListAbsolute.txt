@@ -1,0 +1,57 @@
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\appsettings.json
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.staticwebassets.runtime.json
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.exe
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.deps.json
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.runtimeconfig.json
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.dll
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.pdb
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.AssemblyInfo.cs
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\scopedcss\bundle\TPBase.styles.css
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\scopedcss\projectbundle\TPBase.bundle.scp.css
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.dll
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\refint\TPBase.dll
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.pdb
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.genruntimeconfig.cache
+C:\Users\simon\Desktop\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\ref\TPBase.dll
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\appsettings.Development.json
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\appsettings.json
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.staticwebassets.runtime.json
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.exe
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.deps.json
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.runtimeconfig.json
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.dll
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\bin\Debug\net6.0\TPBase.pdb
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.csproj.AssemblyReference.cache
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.AssemblyInfoInputs.cache
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.AssemblyInfo.cs
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.csproj.CoreCompileInputs.cache
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.MvcApplicationPartsAssemblyInfo.cache
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.RazorAssemblyInfo.cache
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.RazorAssemblyInfo.cs
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets\msbuild.TPBase.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets\msbuild.build.TPBase.props
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPBase.props
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPBase.props
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets.build.json
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\staticwebassets.development.json
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\scopedcss\bundle\TPBase.styles.css
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\scopedcss\projectbundle\TPBase.bundle.scp.css
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.dll
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\refint\TPBase.dll
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.pdb
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\TPBase.genruntimeconfig.cache
+D:\DESCARGAS\TP-05 Alcatraz\TP-05---Sala-de-Escape-master\obj\Debug\net6.0\ref\TPBase.dll

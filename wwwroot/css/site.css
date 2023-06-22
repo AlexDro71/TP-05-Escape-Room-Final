@@ -1,0 +1,381 @@
+html {
+  font-size: 14px;
+  position: relative;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/** Index **/
+
+.index{
+  background-image: url("../img/Alcatraz.PNG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+.tituloIndex h1{
+  font-size: 40px;
+  text-align: center;
+  color: rgb(208, 3, 3);
+  font-style: italic;
+}
+
+.tituloIndex h2{
+  font-size: 40px;
+  text-align: center;
+  color: rgb(208, 3, 3);
+  font-style: oblique;
+}
+
+
+.indexPrimero p{
+  font-size: 20px;
+  text-align: center;
+  text-align: justify;
+  color: rgb(208, 3, 3);
+  margin-top: 70px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+.indexPrimero button{
+
+  border-radius: 10px;
+  background-color: #fd0000;
+  border: none;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 20px;
+  width: 200px;
+  margin-top: 325px;
+  margin-left: 220px;
+}
+
+/** Sala 1 **/
+
+.sala1{
+  background-image: url("../img/celda.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.tituloSala1 h1{
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 0px;
+}
+
+.sala1Primero p{
+  color: white;
+  font-size: 18px;
+  margin: 400px;
+  margin-top: -30px;
+  margin-bottom: 0px;
+}
+
+.fotoPrisionero img{
+  width: 175px;
+  height: auto;
+  margin-top: -160px;
+  margin-left: 1225px;
+}
+
+.fotoFechaCrimen img{
+  width: 300px;
+  height: auto;
+}
+
+.fotoJurado img{
+  width: 500px;
+  height: auto;
+  margin-left: 1109px;
+}
+
+.sala1Primero input[type=text]{
+  margin-top: 230px;
+  margin-bottom: 30px;
+  text-align: center;
+  width: 200px;
+  margin-left: 715px;
+  font-size: 25px;
+}
+
+.sala1Primero input[type=submit]{
+  margin-bottom: 30px;
+  margin-left: 770px;
+  border-radius: 15px;
+  background-color: #fd0000;
+  border: none;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 10px;
+  width: 100px;
+}
+
+/** Sala 2 **/
+
+.sala2{
+  background-image: url("../img/oficina.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.tituloSala2 h1{
+  font-size: 60px;
+  text-align: center;
+  margin-top: 0px;
+}
+.tituloSala2{
+  font-size: 35px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.imagenCrucigrama img{
+  width: 200px;
+  height: auto;
+  margin-left: 180px;
+  transition: transform 0.3s ease;
+}
+
+.imagenCrucigrama img:hover{
+  transform: scale(2.5);
+}
+
+.imagenCesar img{
+  width: 200px;
+  height: auto;
+  margin-left: 450px;
+  margin-top: -400px;
+}
+
+.ingresarOpcion{
+  margin-top: -290px;
+  margin-left: 1125px;
+}
+
+.ingresarOpcion input[type=text]{
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.ingresarOpcion input[type=submit]{
+  margin-top: 20px;
+  font-size: 18px;
+  border-radius: 15px;
+  background-color: #000000;
+  border: none;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 5px;
+  width: 100px;
+}
+
+.ingresarOpcionFinal{
+  text-align: center;
+  margin-top: 150px;
+}
+
+.ingresarOpcionFinal input[type=text]{
+  font-size: 25px;
+  text-align: center;
+}
+
+.ingresarOpcionFinal input[type=submit]{
+  margin-top: 20px;
+  border-radius: 15px;
+  background-color: #fd0000;
+  border: none;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 10px;
+  width: 100px;
+}
+
+/** Sala 3 **/
+
+.sala3{
+  background-image: url("../img/puerta.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.tituloSala3 h1{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+.tituloSala3 p{
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+
+.imagenMorse img{
+  width: 200px;
+  height: auto;
+  margin-left: 700px;
+}
+
+.imagenMorse img:hover{
+  transform: scale(2.5);
+}
+
+.contenido-central {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.hoja-blanca {
+  background-color: #fff;
+  width: 400px;
+  padding: 20px;
+}
+
+.reglasPrision p{
+  font-size: 22px;
+}
+
+.probarContraseña{
+  margin-top: 100px;
+  text-align: center;
+}
+
+.probarContraseña [type=text]{
+  font-size: 25px;
+  text-align: center;
+}
+
+.probarContraseña input[type=submit]{
+  margin-top: 20px;
+  border-radius: 15px;
+  background-color: #fd0000;
+  border: none;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 10px;
+  width: 100px;
+  margin-bottom: 100px;
+}
+
+/** Sala 4 **/
+
+.sala4{
+  background-image: url("../img/Docks.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.h1s4{
+  text-align: center;
+  color: white;
+  font-size: 300%;
+}
+
+/** Espapaste **/
+
+.escapaste{
+  background-image: url("../img/fondoEscapaste.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.tituloEscapaste h1{
+  text-align: center;
+  font-size: 40px;
+  color: rgb(11, 242, 11);
+}
+
+.fotoRegalo img{
+  width: 400px;
+  height: auto;
+  margin-left: 595px;
+  margin-top: 150px;
+}
+
+/** Creditos **/
+
+.creditos{
+  background-color: #000000;
+}
+
+.tituloCredito h1{
+  color: white;
+  font-size: 60px;
+  text-align: center;
+}
+
+.tituloCredito h3{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.creditos button{
+  border-radius: 15px;
+  background-color: #ffffff;
+  border: none;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px;
+  width: 180px;
+  margin: 700px;
+  margin-top: 40px;
+}
+
+/** Tutorial **/
+
+.tutorial{
+  background-color: gray;
+}
+
+.contenido-central-tutorial {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 680px;
+}
+
+.hoja-blanca-tutorial {
+  background-color: #fff;
+  width: 700px;
+  height: 580px;
+  padding: 20px;
+}
+
+.infoMensaje p{
+  text-align: center;
+  text-align: justify;
+}
+
+.quienLoEnvia p{
+  text-align: right;
+}
+
+.botonTuto button{
+  border-radius: 15px;
+  background-color: #000000;
+  border: none;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px;
+  width: 180px;
+  margin-top: 150px;
+  margin-left: 260px;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body class="sala3">
+
+    
+    <div class="tituloSala3">
+        <h1>La Puerta</h1>
+        <p>Tras conseguir la llave y aprovechando la noche, vas a la puerta y revisas el sobre, el cual dice: "Solo tendras un intento con la llave,
+         un error hara sonar la alarma. En la imagen te provisionamos de una pista util, revisa bien las reglas de la prision."</p>
+    </div>
+
+    <div class="contenido-central">
+        <div class="hoja-blanca">
+            <div class="reglasPrision">
+                <h1>Reglas de la Prision:</h1>
+                <p>1. Despues de las 10:00pm todos en sus celdas.</p>
+                <p>2. El desayuno es a las 8:00am</p>
+                <p>3. -•/- - -/•-•/•/•••/-/•</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="imagenMorse">
+        <img src="/img/codigoMorse.png">
+    </div>
+
+    <div class="probarContraseña">
+        <form action='@Url.Action("Habitacion")'>
+        <input type="text" name="clave"> <input type="hidden" value="3" name="sala"> <br>
+        <input type="submit" value="Verificar">
+    </form>
+    </div>
+
+        
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>celda</title>
+</head>
+<body class="sala1">
+    
+    <div style="display: flex; align-items: center;">
+        <img src="/img/fechaCrimen.jpg" style="width: 300px; height: autopx; margin-right: 10px;">
+        <div class="tituloSala1">
+            <h1>Tu Celda</h1>
+        </div>
+    </div>
+
+    <div class="fotoPrisionero">
+        <img src="/img/fotoPrisionero.jpg">
+    </div>
+
+    <div class="sala1Primero">
+        <p>Miras al sobre y decidis abrirlo, en el lees "Primer obstaculo: La celda. Como sabes bien las cerraduras de las celdas tienen un codigo afuera
+        pero sabemos bien que es posible tocar el candado desde dentro. A cada prisionero le dan un codigo personalizado, estas imagenes son todo lo que sabemos del tuyo.
+        Te proporcionamos 3 imagenes, el ultimo numero esta en tu celda. Una vez escapes ve a la oficina del alcaide, ahí esta la llave que necesitas para abrir la salida a los muelles."</p>
+<form method="post" action='@Url.Action("Habitacion")'>
+    <input type="text" name="clave"> 
+    <input type="hidden" name="sala" value="1"> 
+    <br>
+    <input type="submit" value="Probar">
+</form>
+    <div class="fotoJurado">
+        <img src="/img/jurado.jpg">
+    </div>
+
+    </div>
+</body>
+</html>
